@@ -13,3 +13,4 @@ passengers.each do |suite, name|
     winnder = name
   end
 end
+end
